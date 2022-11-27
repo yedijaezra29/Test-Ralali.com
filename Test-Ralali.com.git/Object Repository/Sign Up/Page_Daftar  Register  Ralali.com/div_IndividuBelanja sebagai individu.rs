@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_IndividuBelanja sebagai individu</name>
+   <tag></tag>
+   <elementGuidId>313f94d6-6c75-48af-b3ab-77633e24fec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.RadioCard__CardCustom-sc-1ruzahn-0.fupgRC</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div/form/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf9b7410-4046-40a8-9c78-6665b57743f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>card-Individu</value>
+      <webElementGuid>bb2e3701-710a-4e1d-a502-22b07cba747a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RadioCard__CardCustom-sc-1ruzahn-0 fupgRC</value>
+      <webElementGuid>22ca0bfb-c45d-468e-8c28-a5edf8ec9c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IndividuBelanja sebagai individu</value>
+      <webElementGuid>8a48e6f3-7ce3-4df4-ac6b-c8a7281df539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Layout__StyledContainer-kmsxkz-0 dOgPEi&quot;]/main[1]/div[@class=&quot;Register__Container-sc-1d49mct-0 hhGKLp&quot;]/div[@class=&quot;RegisterForm__RegisterContainer-sc-1ofjgrt-0 eoGkhr&quot;]/form[1]/div[@class=&quot;RegisterForm__BodySection-sc-1ofjgrt-6 kUAsvi&quot;]/div[@class=&quot;Flex__StyledFlex-sc-1gmkxa6-0 hLRPdG&quot;]/div[@class=&quot;RadioCard__CardCustom-sc-1ruzahn-0 fupgRC&quot;]</value>
+      <webElementGuid>795dfffb-9098-4ef3-a3a9-a01f90396847</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div/form/div/div/div[2]</value>
+      <webElementGuid>34826f7c-a362-4eec-a240-08a6b636330d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[9]</value>
+      <webElementGuid>258baea8-5142-4105-be5c-05d3d6f0cde1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::div[7]</value>
+      <webElementGuid>e5bf8fb1-23dd-4593-92e7-dd3b133605d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::div[7]</value>
+      <webElementGuid>30f8985e-1cea-499f-bcfc-f445a68b1c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]</value>
+      <webElementGuid>63a2268f-76d8-4fb4-9eed-036dbf06969c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IndividuBelanja sebagai individu' or . = 'IndividuBelanja sebagai individu')]</value>
+      <webElementGuid>668efda5-a230-4c8f-9f7e-21219bd95411</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

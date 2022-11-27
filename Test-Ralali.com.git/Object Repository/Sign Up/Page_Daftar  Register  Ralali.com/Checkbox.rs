@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox</name>
+   <tag></tag>
+   <elementGuidId>01a1d699-b7da-4fdd-ae57-cf52e2967900</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.RegisterForm__Checkbox-sc-1ofjgrt-4.hVCRMC > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div/form/div/div[6]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fac45be0-e7a5-4d66-b1d8-6fd2369a2d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Layout__StyledContainer-kmsxkz-0 dOgPEi&quot;]/main[1]/div[@class=&quot;Register__Container-sc-1d49mct-0 hhGKLp&quot;]/div[@class=&quot;RegisterForm__RegisterContainer-sc-1ofjgrt-0 eoGkhr&quot;]/form[1]/div[@class=&quot;RegisterForm__BodySection-sc-1ofjgrt-6 kUAsvi&quot;]/div[@class=&quot;RegisterForm__WrapperBody-sc-1ofjgrt-2 eDNUIk&quot;]/div[@class=&quot;RegisterForm__CheckboxContainer-sc-1ofjgrt-3 hkfizW&quot;]/span[@class=&quot;RegisterForm__Checkbox-sc-1ofjgrt-4 hVCRMC&quot;]/span[1]</value>
+      <webElementGuid>409dfc5f-e81d-426e-b43a-564964569c8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div/form/div/div[6]/div/span/span</value>
+      <webElementGuid>3f826fb0-adac-4743-8d09-46d1b02767e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>e4ec8436-f90b-400a-a824-b3be2d9ec5b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
